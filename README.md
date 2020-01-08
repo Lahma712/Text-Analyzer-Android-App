@@ -1,3 +1,3 @@
 # Text-Analyzer-Android-App
 
-![](ReadMe#1.jpg)
+![alt text](Text-Analyzer-Android-App/ReadMe#1.jpg)
