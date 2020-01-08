@@ -38,7 +38,7 @@ public class WordSearchRoutine
             }
         else{
             int Length=textboxinput.length();
-            for(int x = 0; x<37; x++)
+            for(int x = 0; x<Specials.length(); x++)
                 {
                 Length = Length - counting(textboxinput,Specials.charAt(x));
 
