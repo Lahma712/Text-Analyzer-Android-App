@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity
         Checkbox = findViewById(R.id.checkbox);
 
         final String alph = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        final String specials = " .,-;:_1234567890<>!§$%&/()=?²³{[]}~+";
+        final String specials = " .,-;:_1234567890<>!§$%&(=)[×]{÷}~+\/";
         final ImageView[] BarArray = new ImageView[26];
         final TextView[] AlphArray = new TextView[26];
 
