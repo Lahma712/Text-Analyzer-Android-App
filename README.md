@@ -1,6 +1,8 @@
 # Text-Analyzer-Android-App
 
 
+Preview of the app:
 
+https://imgur.com/a/8PQXmdQ
 
-<img src="Images/rsz_1readme#1.png" />
+NOTE: Readme not yet finished.
