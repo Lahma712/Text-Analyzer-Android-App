@@ -3,6 +3,8 @@
 
 Preview of the app:
 
-https://imgur.com/a/8PQXmdQ
+![img](https://imgur.com/zPZUBdn.png)
+
+![img](https://imgur.com/rHc0w0Q.png)
 
 NOTE: Readme not yet finished.
